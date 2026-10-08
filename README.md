@@ -1,0 +1,1 @@
+A Jupyter notebook that trains a convolutional neural network to classify ECG report images into four dataset classes. The implementation operates on images; it does not extract ECG waveforms or generate clinical report text.
