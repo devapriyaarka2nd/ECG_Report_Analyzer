@@ -1,0 +1,6 @@
+# Original package versions were not recorded in the supplied notebook.
+tensorflow
+numpy
+opencv-python
+scikit-learn
+jupyterlab
